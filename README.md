@@ -1,16 +1,49 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vrdons/vrdons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Merhaba, Ben Deniz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /></h1>
 
-Here are some ideas to get you started:
+<div align="center">
+    <h3>Backend Developer</h3>
+    <img src="https://komarev.com/ghpvc/?username=vrdons&color=blue"/>
+</div>
+<h2></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left"> <h3><strong>🌐 Benimle İletişime Geçin</strong></h3></div>
+<div align="center">
+  <h4>Coming soon.</h4>
+</div>
+
+<h2></h2>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1112945015132536943)](https://discord.com/users/1112945015132536943)
+<h2></h2>
+<div align="left"> <h3><strong>💻 Diller & Runtime</strong></h3></div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,bun" />
+</div>
+
+<h2></h2>
+<div align="left"> <h3><strong>🛠️ Framework & Kütüphaneler</strong></h3></div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,discordjs,tailwind" />
+</div>
+
+<h2></h2>
+
+<h2></h2>
+<div align="left"><h3><strong>🎯 Uzmanlık Alanlarım</strong></h3>
+
+- **Backend Geliştirme**: RESTful API'ler
+- **Discord Botları**: Özel otomasyon ve topluluk yönetim çözümleri
+</div>
+<h2></h2>
+<div align="left"> <h3><strong>📊 GitHub İstatistikleri</strong></h3></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vrdons&show_icons=true&theme=transparent&hide_border=true&locale=tr" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrdons&theme=transparent&hide_border=true&show_icons=true&layout=compact&locale=tr" alt="En Çok Kullanılan Diller" />
+</div>
+
+<h2></h2>
+
+<h2></h2>
+</div>
