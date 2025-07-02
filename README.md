@@ -19,13 +19,13 @@
 <h2></h2>
 <div align="left"> <h3><strong>💻 Diller & Runtime</strong></h3></div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,bun" />
+    <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,bun,css,html" />
 </div>
 
 <h2></h2>
 <div align="left"> <h3><strong>🛠️ Framework & Kütüphaneler</strong></h3></div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,discordjs,tailwind" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,discordjs,tailwind,express,vite,vue" />
 </div>
 
 <h2></h2>
