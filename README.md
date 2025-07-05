@@ -15,7 +15,7 @@
 
 <h2></h2>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1112945015132536943)](https://discord.com/users/1112945015132536943)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1391139744276283422)](https://discord.com/users/1391139744276283422)
 <h2></h2>
 <div align="left"> <h3><strong>💻 Diller & Runtime</strong></h3></div>
 <div align="center">
