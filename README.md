@@ -15,4 +15,7 @@
 ---
 
 ## Github status
-
+<img src="https://raw.githubusercontent.com/vrdons/vrdons/refs/heads/output/stats.svg">
+<img src="https://raw.githubusercontent.com/vrdons/vrdons/refs/heads/output/top-langs.svg">
+---
+<img src="https://raw.githubusercontent.com/vrdons/vrdons/refs/heads/output/github-contribution-grid-snake-dark.svg" width="%50" height="%50">
