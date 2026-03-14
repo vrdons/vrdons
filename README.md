@@ -4,8 +4,8 @@
 
 ## Tech Stack I Use
 - **Backend:** [<img src="https://skillicons.dev/icons/?i=nodejs" width="16" height="16"/>Node.js](https://nodejs.org), [<img src="https://skillicons.dev/icons/?i=python" width="16" height="16"/> Python](https://www.python.org), [<img src="https://skillicons.dev/icons/?i=go" width="16" height="16"/> Go](https://golang.org), [<img src="https://skillicons.dev/icons/?i=rust" width="16" height="16"/> Rust](https://www.rust-lang.org)
-- **Database:** [<img src="https://skillicons.dev/icons/?i=postgres" width="16" height="16"/> PostgreSQL](https://www.postgresql.org), [<img src="https://skillicons.dev/icons/?i=mongodb" width="16" height="16"/> MongoDB](https://www.mongodb.com)
-- **CI/CD & Tools:** [<img src="https://skillicons.dev/icons/?i=docker" width="16" height="16"/> Docker](https://www.docker.com), [<img src="https://skillicons.dev/icons/?i=git" width="16" height="16"/> Git](https://git-scm.com), [<img src="https://skillicons.dev/icons/?i=githubactions" width="16" height="16"/> GitHub Actions](https://github.com/features/actions)
+- **Database:** [<img src="https://skillicons.dev/icons/?i=postgres" width="16" height="16"/> PostgreSQL](https://www.postgresql.org), [<img src="https://skillicons.dev/icons/?i=mongodb" width="16" height="16"/> MongoDB](https://www.mongodb.com), [<img src="https://skillicons.dev/icons/?i=sqlite" width="16" height="16"/> Sqlite](https://sqlite.org/)
+- **CI/CD & Tools:** [<img src="https://skillicons.dev/icons/?i=docker" width="16" height="16"/> Docker](https://www.docker.com), [<img src="https://skillicons.dev/icons/?i=git" width="16" height="16"/> Git](https://git-scm.com), [<img src="https://skillicons.dev/icons/?i=githubactions" width="16" height="16"/> GitHub Actions](https://github.com/features/actions), [<img src="https://skillicons.dev/icons/?i=bun" width="16" height="16"/> Bun](https://bun.com/)
 
 
 
