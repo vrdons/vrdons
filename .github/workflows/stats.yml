@@ -7,7 +7,7 @@ on:
   
   push:
     branches:
-    - master
+    - main
 jobs:
   generate:
     permissions: 
@@ -23,7 +23,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2.0.2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&title_color=0575E6&icon_color=0575E6
           path: dist/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,7 +31,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v2.0.2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=transparent&hide_border=true&title_color=0575E6
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
